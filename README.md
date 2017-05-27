@@ -33,3 +33,11 @@ cuDNN 5.1
 - myvalid 
 	- cat
 	- dog
+
+### 训练时间
+
+- 每个epoch30s
+- 总共40个epoch，20分钟
+- CPU i7 6700K
+- GPU GTX 980 Ti
+- Memory 32GB
